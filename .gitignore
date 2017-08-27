@@ -1,1 +1,9 @@
 *_BuiltData.uasset
+build
+binaries
+.vs
+deriveddatacache
+intermediate
+saved
+*.sln
+*.vc.db

@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{9A014A2C-4318-6493-558B-BFA5C5FBC4E5}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CarbonDemo_UE4BP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
